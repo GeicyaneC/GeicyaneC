@@ -1,4 +1,4 @@
-<img align="right" src="img.jpg" max-width="400px" width="400px" align="right">
+<img align="right" src="img.webp" max-width="400px" width="400px" align="right">
 
 <h3 align="left"> Ei! Que bom te ver aqui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
@@ -28,6 +28,5 @@ Sou a Geicy, Analista de Suporte de TI por enquanto, mas minha verdadeira paixã
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/paulo-henrique-oj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paulo.junior.ph@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/geicyane-clemente-851155163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a>  
 </div>
