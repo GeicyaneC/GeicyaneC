@@ -10,7 +10,7 @@ Sou a Geicy, Analista de Suporte de TI por enquanto, mas minha verdadeira paixã
 
 - 💻 Analista de Suporte de TI.
 - 📚 Estudante de Python, SQL, Power BI, Excel, entre outras ferramentas voltadas para Análise de Dados.
-- Bora transformar dados em insights juntos? 🔍✨
+- Bora transformar dados em insights juntos? 🔍
 
 ##
 
