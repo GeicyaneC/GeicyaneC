@@ -1,6 +1,6 @@
 <img align="right" src="img.png" max-width="400px" width="400px" align="right">
 
-<h3 align="left"> Ei! Que maravilha te ter aqui. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
+<h3 align="left"> Ei! Que maravilha te ter aqui. <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/2728.gif" width="30px"></h3>
 
 ##
 
