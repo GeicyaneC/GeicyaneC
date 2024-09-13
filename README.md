@@ -1,4 +1,4 @@
-<img align="right" src="img.wepb" max-width="400px" width="400px" align="right">
+<img align="right" src="img.webp" max-width="400px" width="400px" align="right">
 
 <h3 align="left"> Ei! Que bom te ver aqui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
